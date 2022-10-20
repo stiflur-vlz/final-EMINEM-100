@@ -1,0 +1,19 @@
+.zoom{
+    z-index: 1;
+    transition: transform .2s;
+
+}
+
+.zoom:hover{
+
+    transform: scale(1.2);
+
+}
+
+.fondo{
+    background-color: rgb(94, 93, 93);
+}
+
+.fondoIntegrantes{
+    background-color: black;
+}
